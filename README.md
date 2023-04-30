@@ -1,4 +1,4 @@
-# Project Lyrics
+# Project Lyrics Desgin By Manny B
 
 Develop an elegant React.js Music Application. 
 
